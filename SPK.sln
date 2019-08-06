@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPK", "SPK\SPK.csproj", "{16940EB6-3C7B-4BF1-8D5B-AAF4ABB7BF5C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPK2", "SPK2\SPK2.csproj", "{05B2A2C7-6856-488D-A287-066A2AD78A7B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{16940EB6-3C7B-4BF1-8D5B-AAF4ABB7BF5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16940EB6-3C7B-4BF1-8D5B-AAF4ABB7BF5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16940EB6-3C7B-4BF1-8D5B-AAF4ABB7BF5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05B2A2C7-6856-488D-A287-066A2AD78A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05B2A2C7-6856-488D-A287-066A2AD78A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05B2A2C7-6856-488D-A287-066A2AD78A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05B2A2C7-6856-488D-A287-066A2AD78A7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
